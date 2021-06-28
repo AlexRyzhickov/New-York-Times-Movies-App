@@ -2,7 +2,9 @@
 
 ## Register developer account
 
-https://developer.nytimes.com/
+1. Register as a developer on https://developer.nytimes.com
+2. Create your new app
+3. Add a key to access the api
 
 ## Screens
 Splash screen with logo
