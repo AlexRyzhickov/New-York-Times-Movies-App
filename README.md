@@ -10,11 +10,7 @@ I used Pagination 3 and Reftrofit 2.
 3. Add a key to access the api
 
 ## Screens
-Splash screen with logo
+Splash screen with logo and Movie list screen
 
-![Splash screen with logo](https://github.com/AlexRyzhickov/New-York-Times-Movies-App/blob/main/screenshots/Screenshot_1624883581.png)
-
-Movie list screen
-
-![Movie list screen](https://github.com/AlexRyzhickov/New-York-Times-Movies-App/blob/main/screenshots/Screenshot_1624883584.png)
+![Screens](https://github.com/AlexRyzhickov/New-York-Times-Movies-App/blob/main/screenshots/screens.png)
 
