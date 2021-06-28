@@ -1,4 +1,7 @@
 # New-York-Times-Movies-App
+# Description
+This application uses the nytimes-api to show the user data about movies.
+I used Pagination 3 and Reftrofit 2
 
 ## Register developer account
 
