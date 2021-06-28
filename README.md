@@ -1,10 +1,10 @@
 # New-York-Times-Movies-App
 
-# Register developer account
+## Register developer account
 
 https://developer.nytimes.com/
 
-# Screens
+## Screens
 Splash screen with logo
 
 ![Splash screen with logo](https://github.com/AlexRyzhickov/New-York-Times-Movies-App/blob/main/screenshots/Screenshot_1624883581.png)
